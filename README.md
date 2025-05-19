@@ -1,1 +1,1 @@
-Material do formação completa de JavaScrit Developer da plataforma DIO
+Material da formação completa de JavaScrit Developer da plataforma DIO
