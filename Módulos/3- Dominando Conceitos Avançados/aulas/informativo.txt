@@ -1,0 +1,3 @@
+Nesse módulo não houve algo para que eu anotasse especificamente, porque ele foi necessário para explicar exemplos que foram usados no módulo anterior como:
+1- Promises
+2- Funções assíncronas
